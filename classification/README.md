@@ -1,9 +1,9 @@
-#Where to Start
+# Where to Start
 
-##Input
+## Input
 The program requires different input files. The program control is defined in the file ZAoptcps.con. The other input files are specified in the control file.
 
-###ZAoptcps.con
+### ZAoptcps.con
 format of example control file:
 
 ```
